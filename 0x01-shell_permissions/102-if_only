@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 cho --from=guillaume betty hello
