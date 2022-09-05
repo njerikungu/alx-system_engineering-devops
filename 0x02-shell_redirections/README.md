@@ -8,4 +8,4 @@
 7-file This script creates a file containing text ending by new line
 8-cwd_state This script writes into the file the result of a command ls -la.
 9-duplicate_last_line This script duplicates the last line of a file	
-10-no_more_js This script deletes all regular files with .js
+10-no_more_js This script deletes all regular files (not the directories) with .js extension that are present in the current directory and all its subfolders
