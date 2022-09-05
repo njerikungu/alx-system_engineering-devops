@@ -4,3 +4,4 @@
 3-twofiles This script displays two files
 4-lastlines This script display the last 10 lines of /etc/passwd
 5-firstlines This script displays the first 10 lines of /etc/passwd
+6-third_line This script displays the third line of file iacta
