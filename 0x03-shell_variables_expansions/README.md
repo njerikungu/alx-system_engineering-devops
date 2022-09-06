@@ -6,4 +6,4 @@
 5-local_variables Lists all local variables and environment variables and functions6-create_local_variable Creates new variable  
 7-create_global_variable Creates new global variable
 8-true_knowledge Prints the result of the addition of 128 with the value stored in the environment variable followed by new line
-9- 
+9-divide_and_rule Prints the result of Power,Divide followed by new line 
