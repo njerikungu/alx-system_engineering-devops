@@ -12,5 +12,6 @@
 11-directories Counts the number of directories and sub-directories in the current directory
 12-newest_files Displays the newest files in the current directory, one file per line, sorted from newest to oldest
 13-unique Displays list of words as input and prints out only words that appear once
-14
+14-findthatword Displays lines containing the pattern "root" from file /etc/passwd
+15-
 22-users_and_homes Displays all users and theri home directories, sorted by users
