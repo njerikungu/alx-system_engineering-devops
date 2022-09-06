@@ -15,5 +15,6 @@
 14-findthatword Displays lines containing the pattern "root" from file /etc/passwd
 15-countthatword Displays the number of lines that contain the pattern bin
 16-whatsnext Displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
-17- 
+17-hidethisword Displays all the lines in the file /etc/passwd that does not contain the pattern "bin"
+18-  
 22-users_and_homes Displays all users and theri home directories, sorted by users
