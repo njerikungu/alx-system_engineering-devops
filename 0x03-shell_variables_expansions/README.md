@@ -9,3 +9,5 @@
 9-divide_and_rule Prints the result of Power,Divide followed by new line 
 10-love_exponent_breath Displays the result of Breath to the power of love
 11-Converts a number from base 2 to base 10
+12-combinations Prints all possible combinations of two letters, except oo.
+13-
