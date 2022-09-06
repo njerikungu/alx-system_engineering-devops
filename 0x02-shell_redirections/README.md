@@ -16,5 +16,6 @@
 15-countthatword Displays the number of lines that contain the pattern bin
 16-whatsnext Displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 17-hidethisword Displays all the lines in the file /etc/passwd that does not contain the pattern "bin"
-18-  
+18-letteronly Displays all lines of the file /etc/ssh/sshd_config starting with a letter
+19-   
 22-users_and_homes Displays all users and theri home directories, sorted by users
