@@ -10,4 +10,6 @@
 9-duplicate_last_line This script duplicates the last line of a file	
 10-no_more_js This script deletes all regular files (not the directories) with .js extension that are present in the current directory and all its subfolders
 11-directories Counts the number of directories and sub-directories in the current directory
+12-newest_files Displays the newest files in the current directory, one file per line, sorted from newest to oldest
+
 22-users_and_homes Displays all users and theri home directories, sorted by users
